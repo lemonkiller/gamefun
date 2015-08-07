@@ -2,6 +2,7 @@
 
 * [简介](README.md)
 * [目的](chapter1.md)
+   * 2
 * [元素](chapter2.md)
 * 1
    * 1
